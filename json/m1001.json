@@ -1,0 +1,16 @@
+{
+    "id": "m1001",
+    "de": "A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
+    "tr": "https://d3sgzbosmwirao.cloudfront.net/video/50ec11bbf9e65ff45f55a951f5feec04b84c9f9aa11c8d4001f8a4bb6f8a571b/3/hls/h264_high.m3u8",
+    "bc": "rgb(214, 146, 0)",
+    "ua": "U/A 16+",
+    "du": "2h 16m",
+    "mv": "https://d3sgzbosmwirao.cloudfront.net/video/0ec962650fcd8f71169027acfd1508efdfc6aec02638b4de4ad5a30d4bfcfece/2/hls/h264_high.m3u8",
+    "vc": {"b":1080,"h": 720, "m": 480, "l": 360,"d":180, "da": "Hindi" },
+    "vo": [{
+      "t": "pushpa trailer",
+      "i": "https://i.ibb.co/MD8RVbrX/Untiled-2022-01-17-T025709-547.webp",
+      "v": "https://d3sgzbosmwirao.cloudfront.net/video/50ec11bbf9e65ff45f55a951f5feec04b84c9f9aa11c8d4001f8a4bb6f8a571b/3/hls/h264_high.m3u8",
+      "vc": { "h": 1080, "m": 480, "l": 180, "da": "Hindi" }
+    }]
+}
